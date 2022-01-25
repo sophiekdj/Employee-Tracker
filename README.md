@@ -8,7 +8,7 @@ GitHub link:
 [GitHub](https://github.com/sophiekdj/Employee-Tracker)
 
 Walk-through video:
-[Walk Through]()
+[Walk Through](https://watch.screencastify.com/v/Ih6GXzqpwDkoS2gvoN07)
 
 ## Usage
 
